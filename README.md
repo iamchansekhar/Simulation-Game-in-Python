@@ -1,5 +1,5 @@
 # Simulation-Game-in-Python: Battle of warriors
-This is a sample game created to explain Classes and 4 pillars of OOP (Encapsulation, Abstraction, Inheritance, Polymorphism)
+This is a sample game created to explain Classes and 4 pillars of OOPs (Encapsulation, Abstraction, Inheritance, Polymorphism)
 
 ## **Sample Output:**
 🎮 Welcome to the Battle Arena 🎮
